@@ -29,12 +29,15 @@ def json_to_csv(json_data, output_csv):
 
         # Write rows
         for _, obj in json_data.items():
-            votes = obj.get("votes", {})
+            votes = obj.get("majority_vote", {})
+            print(votes)
             if "not-dark-pattern" in votes:
                 dark_pattern_type = None
                 dark_pattern = False
+            elif not votes:
+                dark_pattern_type = ["Not Decided"]
             else:
-                dark_pattern_type = list(votes.keys())
+                dark_pattern_type = votes
                 dark_pattern = True
 
             row = [

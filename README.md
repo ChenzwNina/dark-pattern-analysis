@@ -14,7 +14,7 @@ The script first filters indexes that have at least 3 votes. If any of dark patt
 
 ### json_to_csv.py
 Using `python3 json_to_csv.py input.json output.csv` to convert `input.json` file to `output.csv` file. The output csv columns are:
-- `dark pattern type`: A list of strings representing identified dark pattern types, or empty if none. 
+- `dark pattern type`: A list of strings representing identified dark pattern types, empty if majority believes "not a dark pattern", not decided if there is no majority vote.
 - `dark pattern`: Boolean indicating whether the widget is dark patterns (True) or not (False).
 - `voting number`: The total number of votes (int) for the widget.
 - `description`: The description id (int) of the widget, check details [here](https://docs.google.com/spreadsheets/d/17g19N_DnZZWXIRgurnMSl8zRFJguM2tneHYmeVxebFw/edit?usp=sharing).
