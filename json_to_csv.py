@@ -3,16 +3,12 @@ import csv
 import argparse
 
 # Load JSON file
-
-
 def load_json(file_path):
     with open(file_path, 'r') as f:
         data = json.load(f)
     return data
 
 # Convert JSON to CSV
-
-
 def json_to_csv(json_data, output_csv):
     with open(output_csv, 'w', newline='') as f:
         writer = csv.writer(f)
@@ -32,7 +28,7 @@ def json_to_csv(json_data, output_csv):
             votes = obj.get("majority_vote", {})
             print(votes)
             if "not-dark-pattern" in votes:
-                dark_pattern_type = None
+                dark_pattern_type = votes
                 dark_pattern = False
             elif not votes:
                 dark_pattern_type = ["Not Decided"]
@@ -52,8 +48,6 @@ def json_to_csv(json_data, output_csv):
             writer.writerow(row)
 
 # Main function parse args and run script
-
-
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("input_json", type=str,
