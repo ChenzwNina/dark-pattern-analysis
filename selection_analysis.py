@@ -6,7 +6,7 @@ with open("kv_pairs.json") as file:
 with open("widget_data.json") as file2:
     widget_data = json.load(file2)
 
-index = 0
+index = 0 
 name_list = ["Leica", "luna", "nina"]
 # name_list = ["Leica", "KV", "KV2", "KV-new", "luna", "nina"]
 

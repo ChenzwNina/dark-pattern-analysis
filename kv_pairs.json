@@ -86,14 +86,16 @@
   },
   {
     "100Leica": {
-      "time": 1736901661871,
+      "time": 1737161649904,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "not-dark-pattern"
+          "Restrictive"
         ],
-        "dark_pattern_impact": null,
-        "dark_pattern_magnitude": null
+        "dark_pattern_impact": [
+          "cognition"
+        ],
+        "dark_pattern_magnitude": "high-influence"
       }
     }
   },
@@ -145,7 +147,7 @@
   },
   {
     "101Leica": {
-      "time": 1736901664287,
+      "time": 1737161655194,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -199,7 +201,7 @@
   },
   {
     "102Leica": {
-      "time": 1736901666790,
+      "time": 1737161659057,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -251,11 +253,12 @@
   },
   {
     "103Leica": {
-      "time": 1736901669071,
+      "time": 1737161676520,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Covert"
+          "Covert",
+          "Hides-Informations"
         ],
         "dark_pattern_impact": [
           "financial-loss",
@@ -314,7 +317,7 @@
   },
   {
     "104Leica": {
-      "time": 1736901703501,
+      "time": 1737161696840,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -371,10 +374,11 @@
   },
   {
     "105Leica": {
-      "time": 1736901710769,
+      "time": 1737161710899,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
+          "Deceptive",
           "Hides-Informations"
         ],
         "dark_pattern_impact": [
@@ -429,7 +433,7 @@
   },
   {
     "106Leica": {
-      "time": 1736901713775,
+      "time": 1737161720800,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -492,10 +496,11 @@
   },
   {
     "107Leica": {
-      "time": 1736901717261,
+      "time": 1737161731665,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
+          "Deceptive",
           "Hides-Informations"
         ],
         "dark_pattern_impact": [
@@ -550,7 +555,7 @@
   },
   {
     "108Leica": {
-      "time": 1736901724198,
+      "time": 1737161749035,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -613,7 +618,7 @@
   },
   {
     "109Leica": {
-      "time": 1736901728141,
+      "time": 1737161753428,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -694,7 +699,7 @@
   },
   {
     "10Leica": {
-      "time": 1736901096197,
+      "time": 1737146401154,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -736,11 +741,12 @@
   },
   {
     "110Leica": {
-      "time": 1736901731467,
+      "time": 1737161782089,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
           "Covert",
+          "Deceptive",
           "Restrictive"
         ],
         "dark_pattern_impact": [
@@ -816,12 +822,13 @@
   },
   {
     "111Leica": {
-      "time": 1736901749786,
+      "time": 1737161818591,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
           "Asymmetric",
-          "Deceptive"
+          "Covert",
+          "Disparate-Treatment"
         ],
         "dark_pattern_impact": [
           "financial-loss",
@@ -895,14 +902,16 @@
   },
   {
     "112Leica": {
-      "time": 1736901755364,
+      "time": 1737161830469,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "not-dark-pattern"
+          "Restrictive"
         ],
-        "dark_pattern_impact": null,
-        "dark_pattern_magnitude": null
+        "dark_pattern_impact": [
+          "cognition"
+        ],
+        "dark_pattern_magnitude": "high-influence"
       }
     }
   },
@@ -969,7 +978,7 @@
   },
   {
     "113Leica": {
-      "time": 1736901763322,
+      "time": 1737161840703,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -1044,7 +1053,7 @@
   },
   {
     "114Leica": {
-      "time": 1736901765872,
+      "time": 1737161846530,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -1109,7 +1118,7 @@
   },
   {
     "115Leica": {
-      "time": 1736901768885,
+      "time": 1737161848896,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -1161,7 +1170,7 @@
   },
   {
     "116Leica": {
-      "time": 1736901776605,
+      "time": 1737161858759,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -1224,11 +1233,11 @@
   },
   {
     "117Leica": {
-      "time": 1736901785613,
+      "time": 1737162149658,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Deceptive",
+          "Covert",
           "Hides-Informations"
         ],
         "dark_pattern_impact": [
@@ -1287,11 +1296,10 @@
   },
   {
     "118Leica": {
-      "time": 1736901789954,
+      "time": 1737162175917,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Deceptive",
           "Hides-Informations",
           "Restrictive"
         ],
@@ -1351,7 +1359,7 @@
   },
   {
     "119Leica": {
-      "time": 1736901820358,
+      "time": 1737162195175,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -1443,18 +1451,17 @@
   },
   {
     "11Leica": {
-      "time": 1736901131684,
+      "time": 1737146450952,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Hides-Informations",
-          "Restrictive"
+          "Hides-Informations"
         ],
         "dark_pattern_impact": [
           "privacy",
           "cognition"
         ],
-        "dark_pattern_magnitude": "high-influence"
+        "dark_pattern_magnitude": "slight-influence"
       }
     }
   },
@@ -1504,7 +1511,7 @@
   },
   {
     "120Leica": {
-      "time": 1736901847535,
+      "time": 1737162212753,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -1573,7 +1580,7 @@
   },
   {
     "121Leica": {
-      "time": 1736901851500,
+      "time": 1737162237415,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -1916,7 +1923,7 @@
   },
   {
     "126Leica": {
-      "time": 1736901871099,
+      "time": 1737162262896,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -1992,7 +1999,7 @@
   },
   {
     "127Leica": {
-      "time": 1736901873945,
+      "time": 1737162269602,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -2046,7 +2053,7 @@
   },
   {
     "128Leica": {
-      "time": 1736901916137,
+      "time": 1737162275732,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -2103,7 +2110,7 @@
   },
   {
     "129Leica": {
-      "time": 1736901921416,
+      "time": 1737162281390,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -2176,7 +2183,7 @@
   },
   {
     "12Leica": {
-      "time": 1736901135527,
+      "time": 1737146458029,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -2230,7 +2237,7 @@
   },
   {
     "130Leica": {
-      "time": 1736901925520,
+      "time": 1737162288927,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -2416,14 +2423,17 @@
   },
   {
     "133Leica": {
-      "time": 1736901941618,
+      "time": 1737162365061,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "not-dark-pattern"
+          "Covert",
+          "Hides-Informations"
         ],
-        "dark_pattern_impact": null,
-        "dark_pattern_magnitude": null
+        "dark_pattern_impact": [
+          "cognition"
+        ],
+        "dark_pattern_magnitude": "low-influence"
       }
     }
   },
@@ -2492,11 +2502,12 @@
   },
   {
     "134Leica": {
-      "time": 1736901961712,
+      "time": 1737162392756,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Asymmetric"
+          "Asymmetric",
+          "Disparate-Treatment"
         ],
         "dark_pattern_impact": [
           "cognition"
@@ -2567,7 +2578,7 @@
   },
   {
     "135Leica": {
-      "time": 1736901965394,
+      "time": 1737162404705,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -2637,7 +2648,7 @@
   },
   {
     "136Leica": {
-      "time": 1736901982404,
+      "time": 1737162410295,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -2709,7 +2720,7 @@
   },
   {
     "137Leica": {
-      "time": 1736901988127,
+      "time": 1737162414545,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -2776,11 +2787,11 @@
   },
   {
     "138Leica": {
-      "time": 1736901997783,
+      "time": 1737162538150,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Asymmetric"
+          "Covert"
         ],
         "dark_pattern_impact": [
           "cognition"
@@ -2846,7 +2857,7 @@
   },
   {
     "139Leica": {
-      "time": 1736902001243,
+      "time": 1737162543654,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -2912,7 +2923,7 @@
   },
   {
     "13Leica": {
-      "time": 1736901142857,
+      "time": 1737146464819,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -2968,7 +2979,7 @@
   },
   {
     "140Leica": {
-      "time": 1736902004711,
+      "time": 1737162546510,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -3029,7 +3040,7 @@
   },
   {
     "141Leica": {
-      "time": 1736902013379,
+      "time": 1737162562181,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -3088,7 +3099,7 @@
   },
   {
     "142Leica": {
-      "time": 1736902015884,
+      "time": 1737162577214,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -3406,12 +3417,12 @@
   },
   {
     "148Leica": {
-      "time": 1736902038091,
+      "time": 1737162630114,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
           "Asymmetric",
-          "Hides-Informations"
+          "Disparate-Treatment"
         ],
         "dark_pattern_impact": [
           "privacy",
@@ -3468,7 +3479,7 @@
   },
   {
     "149Leica": {
-      "time": 1736902040667,
+      "time": 1737162638915,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -3536,7 +3547,7 @@
   },
   {
     "14Leica": {
-      "time": 1736901168896,
+      "time": 1737146515368,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -3611,7 +3622,7 @@
   },
   {
     "150Leica": {
-      "time": 1736902043025,
+      "time": 1737162641951,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -3665,7 +3676,7 @@
   },
   {
     "151Leica": {
-      "time": 1736902044971,
+      "time": 1737162645868,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -3724,7 +3735,7 @@
   },
   {
     "152Leica": {
-      "time": 1736902049767,
+      "time": 1737162659119,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -3781,14 +3792,16 @@
   },
   {
     "153Leica": {
-      "time": 1736902061042,
+      "time": 1737162684369,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "not-dark-pattern"
+          "Disparate-Treatment"
         ],
-        "dark_pattern_impact": null,
-        "dark_pattern_magnitude": null
+        "dark_pattern_impact": [
+          "cognition"
+        ],
+        "dark_pattern_magnitude": "low-influence"
       }
     }
   },
@@ -3969,7 +3982,7 @@
   },
   {
     "156nina": {
-      "time": 1737066894713,
+      "time": 1737146639750,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -4019,7 +4032,7 @@
   },
   {
     "157nina": {
-      "time": 1737066906398,
+      "time": 1737146643591,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -4058,7 +4071,7 @@
   },
   {
     "158nina": {
-      "time": 1737067078812,
+      "time": 1737146648878,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -4071,7 +4084,7 @@
   },
   {
     "159Leica": {
-      "time": 1736923283662,
+      "time": 1737162735632,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -4104,7 +4117,7 @@
   },
   {
     "159nina": {
-      "time": 1737067146313,
+      "time": 1737146659496,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -4119,7 +4132,7 @@
   },
   {
     "15Leica": {
-      "time": 1736901172844,
+      "time": 1737146525878,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -4170,7 +4183,7 @@
   },
   {
     "160Leica": {
-      "time": 1736923285517,
+      "time": 1737162741781,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -4203,7 +4216,7 @@
   },
   {
     "160nina": {
-      "time": 1737067870720,
+      "time": 1737146715866,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -4219,7 +4232,7 @@
   },
   {
     "161Leica": {
-      "time": 1736923393679,
+      "time": 1737162771220,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -4247,12 +4260,11 @@
   },
   {
     "161nina": {
-      "time": 1737068061906,
+      "time": 1737146752419,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
-          "Hides-Informations",
-          "Restrictive"
+          "Hides-Informations"
         ],
         "dark_pattern_impact": [
           "privacy"
@@ -4263,7 +4275,7 @@
   },
   {
     "162Leica": {
-      "time": 1736923403528,
+      "time": 1737162779456,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -4294,7 +4306,7 @@
   },
   {
     "162nina": {
-      "time": 1737068076686,
+      "time": 1737146757822,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -4310,11 +4322,12 @@
   },
   {
     "163Leica": {
-      "time": 1736923414980,
+      "time": 1737162792718,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Hides-Informations"
+          "Hides-Informations",
+          "Restrictive"
         ],
         "dark_pattern_impact": [
           "privacy"
@@ -4341,7 +4354,7 @@
   },
   {
     "163nina": {
-      "time": 1737068090851,
+      "time": 1737146763981,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -4383,7 +4396,7 @@
   },
   {
     "164nina": {
-      "time": 1737068095334,
+      "time": 1737146768172,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -4429,7 +4442,7 @@
   },
   {
     "165nina": {
-      "time": 1737068174749,
+      "time": 1737146773433,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -4445,7 +4458,7 @@
   },
   {
     "166Leica": {
-      "time": 1736923861422,
+      "time": 1737162817795,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -4473,7 +4486,7 @@
   },
   {
     "166nina": {
-      "time": 1737068181935,
+      "time": 1737146777984,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -4512,7 +4525,7 @@
   },
   {
     "167nina": {
-      "time": 1737068199553,
+      "time": 1737146785145,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -4553,7 +4566,7 @@
   },
   {
     "168nina": {
-      "time": 1737068244553,
+      "time": 1737146790342,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -4597,7 +4610,7 @@
   },
   {
     "169nina": {
-      "time": 1737068252590,
+      "time": 1737146798102,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -4610,7 +4623,7 @@
   },
   {
     "16Leica": {
-      "time": 1736901176311,
+      "time": 1737146539952,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -4689,7 +4702,7 @@
   },
   {
     "170nina": {
-      "time": 1737068261233,
+      "time": 1737146805661,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -4702,7 +4715,7 @@
   },
   {
     "171Leica": {
-      "time": 1736924454185,
+      "time": 1737162997148,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -4731,7 +4744,7 @@
   },
   {
     "171nina": {
-      "time": 1737068291944,
+      "time": 1737146824761,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -4746,11 +4759,11 @@
   },
   {
     "172Leica": {
-      "time": 1736924465519,
+      "time": 1737163019806,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Deceptive"
+          "Hides-Informations"
         ],
         "dark_pattern_impact": [
           "cognition"
@@ -4778,7 +4791,7 @@
   },
   {
     "172nina": {
-      "time": 1737068322933,
+      "time": 1737146828417,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -4819,7 +4832,7 @@
   },
   {
     "173nina": {
-      "time": 1737068380037,
+      "time": 1737146832626,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -4858,7 +4871,7 @@
   },
   {
     "174nina": {
-      "time": 1737068383085,
+      "time": 1737146836157,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -4902,7 +4915,7 @@
   },
   {
     "175nina": {
-      "time": 1737068385741,
+      "time": 1737146843399,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -4945,7 +4958,7 @@
   },
   {
     "176nina": {
-      "time": 1737068402510,
+      "time": 1737146855983,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -4958,11 +4971,11 @@
   },
   {
     "177Leica": {
-      "time": 1736929681046,
+      "time": 1737163080958,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Asymmetric"
+          "not-dark-pattern"
         ],
         "dark_pattern_impact": [
           "financial-loss"
@@ -4986,11 +4999,11 @@
   },
   {
     "177nina": {
-      "time": 1737071430657,
+      "time": 1737146943229,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
-          "Deceptive"
+          "not-sure"
         ],
         "dark_pattern_impact": [
           "financial-loss"
@@ -5027,7 +5040,7 @@
   },
   {
     "178nina": {
-      "time": 1737068757476,
+      "time": 1737148779139,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -5068,7 +5081,7 @@
   },
   {
     "179nina": {
-      "time": 1737068773184,
+      "time": 1737148781916,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -5083,7 +5096,7 @@
   },
   {
     "17Leica": {
-      "time": 1736901179524,
+      "time": 1737146548421,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -5137,11 +5150,12 @@
   },
   {
     "180Leica": {
-      "time": 1736929744719,
+      "time": 1737163104904,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Deceptive"
+          "Deceptive",
+          "Restrictive"
         ],
         "dark_pattern_impact": [
           "financial-loss",
@@ -5169,7 +5183,7 @@
   },
   {
     "180nina": {
-      "time": 1737068855167,
+      "time": 1737148785674,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -5212,7 +5226,7 @@
   },
   {
     "181nina": {
-      "time": 1737069033124,
+      "time": 1737148788567,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -5251,7 +5265,7 @@
   },
   {
     "182nina": {
-      "time": 1737069042849,
+      "time": 1737148791368,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -5264,11 +5278,13 @@
   },
   {
     "183Leica": {
-      "time": 1736929792074,
+      "time": 1737163130955,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Asymmetric"
+          "Asymmetric",
+          "Covert",
+          "Disparate-Treatment"
         ],
         "dark_pattern_impact": [
           "financial-loss",
@@ -5297,11 +5313,12 @@
   },
   {
     "183nina": {
-      "time": 1737069069025,
+      "time": 1737148797197,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
-          "Asymmetric"
+          "Asymmetric",
+          "Disparate-Treatment"
         ],
         "dark_pattern_impact": [
           "financial-loss"
@@ -5338,7 +5355,7 @@
   },
   {
     "184nina": {
-      "time": 1737069089535,
+      "time": 1737148800240,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -5377,7 +5394,7 @@
   },
   {
     "185nina": {
-      "time": 1737069102748,
+      "time": 1737148803069,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -5418,7 +5435,7 @@
   },
   {
     "186nina": {
-      "time": 1737069118138,
+      "time": 1737148806833,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -5431,7 +5448,7 @@
   },
   {
     "187Leica": {
-      "time": 1736929820698,
+      "time": 1737163156429,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -5460,7 +5477,7 @@
   },
   {
     "187nina": {
-      "time": 1737069160930,
+      "time": 1737148809925,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -5475,7 +5492,7 @@
   },
   {
     "188Leica": {
-      "time": 1736929837810,
+      "time": 1737163166413,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -5506,7 +5523,7 @@
   },
   {
     "188nina": {
-      "time": 1737069172130,
+      "time": 1737148812530,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -5522,7 +5539,7 @@
   },
   {
     "189Leica": {
-      "time": 1736929843457,
+      "time": 1737163173566,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -5548,7 +5565,7 @@
   },
   {
     "189nina": {
-      "time": 1737069182122,
+      "time": 1737148937033,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -5563,7 +5580,7 @@
   },
   {
     "18Leica": {
-      "time": 1736901181847,
+      "time": 1737146554322,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -5602,7 +5619,7 @@
   },
   {
     "190Leica": {
-      "time": 1736929858544,
+      "time": 1737163190139,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -5635,7 +5652,7 @@
   },
   {
     "190nina": {
-      "time": 1737069194309,
+      "time": 1737148940573,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -5650,7 +5667,7 @@
   },
   {
     "191Leica": {
-      "time": 1736929866738,
+      "time": 1737163194469,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -5676,7 +5693,7 @@
   },
   {
     "191nina": {
-      "time": 1737069219098,
+      "time": 1737148944689,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -5718,7 +5735,7 @@
   },
   {
     "192nina": {
-      "time": 1737069231140,
+      "time": 1737148947576,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -5757,7 +5774,7 @@
   },
   {
     "193nina": {
-      "time": 1737069239307,
+      "time": 1737148950112,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -5796,7 +5813,7 @@
   },
   {
     "194nina": {
-      "time": 1737069244448,
+      "time": 1737148952694,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -5835,7 +5852,7 @@
   },
   {
     "195nina": {
-      "time": 1737069251508,
+      "time": 1737148955448,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -5874,7 +5891,7 @@
   },
   {
     "196nina": {
-      "time": 1737069260863,
+      "time": 1737148959347,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -5913,7 +5930,7 @@
   },
   {
     "197nina": {
-      "time": 1737069304464,
+      "time": 1737148961788,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -5926,10 +5943,11 @@
   },
   {
     "198Leica": {
-      "time": 1736929909551,
+      "time": 1737163306477,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
+          "Covert",
           "Hides-Informations"
         ],
         "dark_pattern_impact": [
@@ -5958,7 +5976,7 @@
   },
   {
     "198nina": {
-      "time": 1737069306714,
+      "time": 1737148964838,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -5974,7 +5992,7 @@
   },
   {
     "199Leica": {
-      "time": 1736929915124,
+      "time": 1737163311774,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -6000,7 +6018,7 @@
   },
   {
     "199nina": {
-      "time": 1737069313448,
+      "time": 1737148967924,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -6027,12 +6045,13 @@
   },
   {
     "19Leica": {
-      "time": 1736901199892,
+      "time": 1737146626610,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
           "Hides-Informations",
-          "Restrictive"
+          "Restrictive",
+          "Disparate-Treatment"
         ],
         "dark_pattern_impact": [
           "privacy",
@@ -6104,7 +6123,7 @@
   },
   {
     "1Leica": {
-      "time": 1736900993797,
+      "time": 1737146129682,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -6164,7 +6183,7 @@
   },
   {
     "200Leica": {
-      "time": 1736929964070,
+      "time": 1737163341865,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -6193,7 +6212,7 @@
   },
   {
     "200nina": {
-      "time": 1737069344984,
+      "time": 1737148970649,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -6208,7 +6227,7 @@
   },
   {
     "201Leica": {
-      "time": 1736929968996,
+      "time": 1737163349094,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -6234,7 +6253,7 @@
   },
   {
     "201nina": {
-      "time": 1737069350964,
+      "time": 1737148973199,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -6247,11 +6266,12 @@
   },
   {
     "202Leica": {
-      "time": 1736929979461,
+      "time": 1737163361238,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Hides-Informations"
+          "Hides-Informations",
+          "Restrictive"
         ],
         "dark_pattern_impact": [
           "privacy",
@@ -6276,12 +6296,13 @@
   },
   {
     "202nina": {
-      "time": 1737069678877,
+      "time": 1737148975713,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
           "Hides-Informations",
-          "Restrictive"
+          "Restrictive",
+          "Disparate-Treatment"
         ],
         "dark_pattern_impact": [
           "privacy"
@@ -6292,11 +6313,11 @@
   },
   {
     "203Leica": {
-      "time": 1736929999892,
+      "time": 1737163379694,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Deceptive",
+          "Covert",
           "Hides-Informations"
         ],
         "dark_pattern_impact": [
@@ -6326,7 +6347,7 @@
   },
   {
     "203nina": {
-      "time": 1737069743627,
+      "time": 1737148978424,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -6343,7 +6364,7 @@
   },
   {
     "204Leica": {
-      "time": 1736930006597,
+      "time": 1737163458881,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -6369,7 +6390,7 @@
   },
   {
     "204nina": {
-      "time": 1737069747042,
+      "time": 1737148980810,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -6382,7 +6403,7 @@
   },
   {
     "205Leica": {
-      "time": 1736930076018,
+      "time": 1737163511581,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -6408,7 +6429,7 @@
   },
   {
     "205nina": {
-      "time": 1737069749492,
+      "time": 1737148983227,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -6423,11 +6444,12 @@
   },
   {
     "206Leica": {
-      "time": 1736930104884,
+      "time": 1737163580662,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Deceptive"
+          "Covert",
+          "Hides-Informations"
         ],
         "dark_pattern_impact": [
           "financial-loss",
@@ -6455,7 +6477,7 @@
   },
   {
     "206nina": {
-      "time": 1737069753063,
+      "time": 1737148985521,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -6471,14 +6493,16 @@
   },
   {
     "207Leica": {
-      "time": 1736930111480,
+      "time": 1737163612582,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "not-dark-pattern"
+          "Restrictive"
         ],
-        "dark_pattern_impact": null,
-        "dark_pattern_magnitude": null
+        "dark_pattern_impact": [
+          "cognition"
+        ],
+        "dark_pattern_magnitude": "high-influence"
       }
     }
   },
@@ -6500,11 +6524,12 @@
   },
   {
     "207nina": {
-      "time": 1737069764830,
+      "time": 1737148993658,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
-          "Restrictive"
+          "Restrictive",
+          "Disparate-Treatment"
         ],
         "dark_pattern_impact": [
           "privacy"
@@ -6515,14 +6540,18 @@
   },
   {
     "208Leica": {
-      "time": 1736930123099,
+      "time": 1737163649155,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "not-dark-pattern"
+          "Covert",
+          "Hides-Informations"
         ],
-        "dark_pattern_impact": null,
-        "dark_pattern_magnitude": null
+        "dark_pattern_impact": [
+          "financial-loss",
+          "cognition"
+        ],
+        "dark_pattern_magnitude": "low-influence"
       }
     }
   },
@@ -6544,7 +6573,7 @@
   },
   {
     "208nina": {
-      "time": 1737069932204,
+      "time": 1737148995993,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -6559,7 +6588,7 @@
   },
   {
     "209Leica": {
-      "time": 1736930130868,
+      "time": 1737163677906,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -6585,7 +6614,7 @@
   },
   {
     "209nina": {
-      "time": 1737069934986,
+      "time": 1737148998911,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -6614,11 +6643,11 @@
   },
   {
     "20Leica": {
-      "time": 1736901203238,
+      "time": 1737146637989,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "not-dark-pattern"
+          "Deceptive"
         ],
         "dark_pattern_impact": null,
         "dark_pattern_magnitude": null
@@ -6657,7 +6686,7 @@
   },
   {
     "210Leica": {
-      "time": 1736930144024,
+      "time": 1737163680840,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -6683,7 +6712,7 @@
   },
   {
     "210nina": {
-      "time": 1737069948577,
+      "time": 1737149001461,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -6696,7 +6725,7 @@
   },
   {
     "211Leica": {
-      "time": 1736930158650,
+      "time": 1737163960014,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -6729,7 +6758,7 @@
   },
   {
     "211nina": {
-      "time": 1737069959104,
+      "time": 1737149003805,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -6744,16 +6773,13 @@
   },
   {
     "212Leica": {
-      "time": 1736930189930,
+      "time": 1737164943796,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Deceptive"
+          "not-sure"
         ],
-        "dark_pattern_impact": [
-          "financial-loss",
-          "cognition"
-        ],
+        "dark_pattern_impact": null,
         "dark_pattern_magnitude": "low-influence"
       }
     }
@@ -6773,7 +6799,7 @@
   },
   {
     "212nina": {
-      "time": 1737069965306,
+      "time": 1737149006557,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -6786,7 +6812,7 @@
   },
   {
     "213Leica": {
-      "time": 1736930194894,
+      "time": 1737164110759,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -6812,7 +6838,7 @@
   },
   {
     "213nina": {
-      "time": 1737069970852,
+      "time": 1737149009731,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -6825,11 +6851,11 @@
   },
   {
     "214Leica": {
-      "time": 1736930207676,
+      "time": 1737164126927,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Deceptive"
+          "not-dark-pattern"
         ],
         "dark_pattern_impact": [
           "financial-loss",
@@ -6857,7 +6883,7 @@
   },
   {
     "214nina": {
-      "time": 1737069977482,
+      "time": 1737149012194,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -6896,7 +6922,7 @@
   },
   {
     "215nina": {
-      "time": 1737069985693,
+      "time": 1737149014467,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -6935,7 +6961,7 @@
   },
   {
     "216nina": {
-      "time": 1737069993033,
+      "time": 1737149017145,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -6974,7 +7000,7 @@
   },
   {
     "217nina": {
-      "time": 1737070000727,
+      "time": 1737149019624,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -7015,7 +7041,7 @@
   },
   {
     "218nina": {
-      "time": 1737070027750,
+      "time": 1737149021902,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -7054,7 +7080,7 @@
   },
   {
     "219nina": {
-      "time": 1737070040395,
+      "time": 1737149024160,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -7083,7 +7109,7 @@
   },
   {
     "21Leica": {
-      "time": 1736901205684,
+      "time": 1737146644692,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -7122,7 +7148,7 @@
   },
   {
     "220Leica": {
-      "time": 1736930349106,
+      "time": 1737164391014,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -7151,7 +7177,7 @@
   },
   {
     "220nina": {
-      "time": 1737070051951,
+      "time": 1737149026766,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -7166,7 +7192,7 @@
   },
   {
     "221Leica": {
-      "time": 1736930358033,
+      "time": 1737164401725,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -7196,7 +7222,7 @@
   },
   {
     "221nina": {
-      "time": 1737070097986,
+      "time": 1737149029248,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -7211,11 +7237,11 @@
   },
   {
     "222Leica": {
-      "time": 1736930374274,
+      "time": 1737164447705,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Deceptive"
+          "Asymmetric"
         ],
         "dark_pattern_impact": [
           "cognition"
@@ -7239,7 +7265,7 @@
   },
   {
     "222nina": {
-      "time": 1737070101272,
+      "time": 1737149032065,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -7254,12 +7280,12 @@
   },
   {
     "223Leica": {
-      "time": 1736930423746,
+      "time": 1737164544826,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Deceptive",
-          "Restrictive"
+          "Covert",
+          "Hides-Informations"
         ],
         "dark_pattern_impact": [
           "cognition"
@@ -7287,7 +7313,7 @@
   },
   {
     "223nina": {
-      "time": 1737070117458,
+      "time": 1737149034688,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -7303,14 +7329,16 @@
   },
   {
     "224Leica": {
-      "time": 1736930429151,
+      "time": 1737164564146,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "not-dark-pattern"
+          "Hides-Informations"
         ],
-        "dark_pattern_impact": null,
-        "dark_pattern_magnitude": null
+        "dark_pattern_impact": [
+          "privacy"
+        ],
+        "dark_pattern_magnitude": "low-influence"
       }
     }
   },
@@ -7332,7 +7360,7 @@
   },
   {
     "224nina": {
-      "time": 1737070125643,
+      "time": 1737149036989,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -7373,7 +7401,7 @@
   },
   {
     "225nina": {
-      "time": 1737070130750,
+      "time": 1737149041430,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -7412,7 +7440,7 @@
   },
   {
     "226nina": {
-      "time": 1737070136668,
+      "time": 1737149070121,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -7456,7 +7484,7 @@
   },
   {
     "227nina": {
-      "time": 1737070203612,
+      "time": 1737149072508,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -7497,7 +7525,7 @@
   },
   {
     "228nina": {
-      "time": 1737070208736,
+      "time": 1737149074827,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -7536,7 +7564,7 @@
   },
   {
     "229nina": {
-      "time": 1737070214003,
+      "time": 1737149077114,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -7563,7 +7591,7 @@
   },
   {
     "22Leica": {
-      "time": 1736901209719,
+      "time": 1737146648664,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -7615,11 +7643,11 @@
   },
   {
     "230Leica": {
-      "time": 1736930490343,
+      "time": 1737164720633,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Deceptive"
+          "Asymmetric"
         ],
         "dark_pattern_impact": [
           "cognition"
@@ -7646,7 +7674,7 @@
   },
   {
     "230nina": {
-      "time": 1737070221069,
+      "time": 1737149080533,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -7661,7 +7689,7 @@
   },
   {
     "231Leica": {
-      "time": 1736930497696,
+      "time": 1737164725384,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -7690,7 +7718,7 @@
   },
   {
     "231nina": {
-      "time": 1737070225740,
+      "time": 1737149082910,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -7729,7 +7757,7 @@
   },
   {
     "232nina": {
-      "time": 1737070233693,
+      "time": 1737149085293,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -7770,7 +7798,7 @@
   },
   {
     "233nina": {
-      "time": 1737070240972,
+      "time": 1737149088164,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -7783,11 +7811,11 @@
   },
   {
     "234Leica": {
-      "time": 1736930547694,
+      "time": 1737164742044,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Deceptive",
+          "Covert",
           "Restrictive"
         ],
         "dark_pattern_impact": [
@@ -7812,7 +7840,7 @@
   },
   {
     "234nina": {
-      "time": 1737070254227,
+      "time": 1737149096518,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -7829,14 +7857,16 @@
   },
   {
     "235Leica": {
-      "time": 1736930553110,
+      "time": 1737164758355,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "not-dark-pattern"
+          "Hides-Informations"
         ],
-        "dark_pattern_impact": null,
-        "dark_pattern_magnitude": null
+        "dark_pattern_impact": [
+          "privacy"
+        ],
+        "dark_pattern_magnitude": "low-influence"
       }
     }
   },
@@ -7859,7 +7889,7 @@
   },
   {
     "235nina": {
-      "time": 1737070262487,
+      "time": 1737149099915,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -7874,14 +7904,16 @@
   },
   {
     "236Leica": {
-      "time": 1736930565952,
+      "time": 1737164769335,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "not-dark-pattern"
+          "Asymmetric"
         ],
-        "dark_pattern_impact": null,
-        "dark_pattern_magnitude": null
+        "dark_pattern_impact": [
+          "cognition"
+        ],
+        "dark_pattern_magnitude": "low-influence"
       }
     }
   },
@@ -7904,7 +7936,7 @@
   },
   {
     "236nina": {
-      "time": 1737070296174,
+      "time": 1737149102980,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -7945,7 +7977,7 @@
   },
   {
     "237nina": {
-      "time": 1737070304816,
+      "time": 1737149106098,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -7986,7 +8018,7 @@
   },
   {
     "238nina": {
-      "time": 1737070309115,
+      "time": 1737149108546,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -7999,11 +8031,11 @@
   },
   {
     "239Leica": {
-      "time": 1736930593441,
+      "time": 1737164814573,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Deceptive"
+          "not-dark-pattern"
         ],
         "dark_pattern_impact": [
           "financial-loss",
@@ -8031,7 +8063,7 @@
   },
   {
     "239nina": {
-      "time": 1737070317802,
+      "time": 1737149110810,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -8058,7 +8090,7 @@
   },
   {
     "23Leica": {
-      "time": 1736901214569,
+      "time": 1737146651950,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -8110,7 +8142,7 @@
   },
   {
     "240Leica": {
-      "time": 1736930610508,
+      "time": 1737164831897,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -8142,7 +8174,7 @@
   },
   {
     "240nina": {
-      "time": 1737070329197,
+      "time": 1737149113293,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -8155,11 +8187,10 @@
   },
   {
     "241Leica": {
-      "time": 1736930624752,
+      "time": 1737164841636,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Deceptive",
           "Hides-Informations"
         ],
         "dark_pattern_impact": [
@@ -8187,7 +8218,7 @@
   },
   {
     "241nina": {
-      "time": 1737070340091,
+      "time": 1737149116972,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -8202,11 +8233,11 @@
   },
   {
     "242Leica": {
-      "time": 1736930652494,
+      "time": 1737164849513,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Deceptive",
+          "Covert",
           "Hides-Informations"
         ],
         "dark_pattern_impact": [
@@ -8236,7 +8267,7 @@
   },
   {
     "242nina": {
-      "time": 1737070349368,
+      "time": 1737149128328,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -8278,7 +8309,7 @@
   },
   {
     "243nina": {
-      "time": 1737070354991,
+      "time": 1737149131108,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -8317,7 +8348,7 @@
   },
   {
     "244nina": {
-      "time": 1737070362305,
+      "time": 1737149134243,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -8356,7 +8387,7 @@
   },
   {
     "245nina": {
-      "time": 1737070371407,
+      "time": 1737149136707,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -8369,12 +8400,12 @@
   },
   {
     "246Leica": {
-      "time": 1736930707208,
+      "time": 1737164877182,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Deceptive",
-          "Hides-Informations"
+          "Hides-Informations",
+          "Disparate-Treatment"
         ],
         "dark_pattern_impact": [
           "financial-loss",
@@ -8402,7 +8433,7 @@
   },
   {
     "246nina": {
-      "time": 1737070387257,
+      "time": 1737149145028,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -8443,7 +8474,7 @@
   },
   {
     "247nina": {
-      "time": 1737070404966,
+      "time": 1737149147558,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -8482,7 +8513,7 @@
   },
   {
     "248nina": {
-      "time": 1737070410869,
+      "time": 1737149150165,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -8495,15 +8526,13 @@
   },
   {
     "249Leica": {
-      "time": 1736930748488,
+      "time": 1737164929784,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Deceptive"
+          "not-sure"
         ],
-        "dark_pattern_impact": [
-          "cognition"
-        ],
+        "dark_pattern_impact": null,
         "dark_pattern_magnitude": "low-influence"
       }
     }
@@ -8523,7 +8552,7 @@
   },
   {
     "249nina": {
-      "time": 1737070416492,
+      "time": 1737149152838,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -8550,7 +8579,7 @@
   },
   {
     "24Leica": {
-      "time": 1736901225204,
+      "time": 1737146684633,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -8610,7 +8639,7 @@
   },
   {
     "250Leica": {
-      "time": 1736930781070,
+      "time": 1737164963455,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -8641,7 +8670,7 @@
   },
   {
     "250nina": {
-      "time": 1737070435163,
+      "time": 1737149155872,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -8657,14 +8686,17 @@
   },
   {
     "251Leica": {
-      "time": 1736930796504,
+      "time": 1737164983995,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "not-dark-pattern"
+          "Covert",
+          "Hides-Informations"
         ],
-        "dark_pattern_impact": null,
-        "dark_pattern_magnitude": null
+        "dark_pattern_impact": [
+          "cognition"
+        ],
+        "dark_pattern_magnitude": "low-influence"
       }
     }
   },
@@ -8686,7 +8718,7 @@
   },
   {
     "251nina": {
-      "time": 1737070453209,
+      "time": 1737149158849,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -8702,15 +8734,13 @@
   },
   {
     "252Leica": {
-      "time": 1736930807032,
+      "time": 1737164995008,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Deceptive"
+          "not-dark-pattern"
         ],
-        "dark_pattern_impact": [
-          "cognition"
-        ],
+        "dark_pattern_impact": null,
         "dark_pattern_magnitude": "low-influence"
       }
     }
@@ -8732,7 +8762,7 @@
   },
   {
     "252nina": {
-      "time": 1737070458095,
+      "time": 1737149166922,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -8745,7 +8775,7 @@
   },
   {
     "253Leica": {
-      "time": 1736930812900,
+      "time": 1737165000156,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -8771,7 +8801,7 @@
   },
   {
     "253nina": {
-      "time": 1737070463549,
+      "time": 1737149169382,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -8784,7 +8814,7 @@
   },
   {
     "254Leica": {
-      "time": 1736930818339,
+      "time": 1737165004271,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -8810,7 +8840,7 @@
   },
   {
     "254nina": {
-      "time": 1737070468384,
+      "time": 1737149171830,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -8823,7 +8853,7 @@
   },
   {
     "255Leica": {
-      "time": 1736930836062,
+      "time": 1737165021025,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -8854,7 +8884,7 @@
   },
   {
     "255nina": {
-      "time": 1737070476947,
+      "time": 1737149174567,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -8895,7 +8925,7 @@
   },
   {
     "256nina": {
-      "time": 1737070487202,
+      "time": 1737149176963,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -8908,15 +8938,13 @@
   },
   {
     "257Leica": {
-      "time": 1736930850314,
+      "time": 1737165044819,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Deceptive"
+          "not-dark-pattern"
         ],
-        "dark_pattern_impact": [
-          "cognition"
-        ],
+        "dark_pattern_impact": null,
         "dark_pattern_magnitude": "low-influence"
       }
     }
@@ -8938,7 +8966,7 @@
   },
   {
     "257nina": {
-      "time": 1737070493350,
+      "time": 1737149179065,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -8951,7 +8979,7 @@
   },
   {
     "258Leica": {
-      "time": 1736930855193,
+      "time": 1737165051002,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -8977,7 +9005,7 @@
   },
   {
     "258nina": {
-      "time": 1737070499679,
+      "time": 1737149181113,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -8990,7 +9018,7 @@
   },
   {
     "259Leica": {
-      "time": 1736930863697,
+      "time": 1737165057499,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -9016,7 +9044,7 @@
   },
   {
     "259nina": {
-      "time": 1737070515827,
+      "time": 1737149184087,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -9045,7 +9073,7 @@
   },
   {
     "25Leica": {
-      "time": 1736901239977,
+      "time": 1737146691964,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -9132,7 +9160,7 @@
   },
   {
     "260nina": {
-      "time": 1737070537380,
+      "time": 1737149186327,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -9173,7 +9201,7 @@
   },
   {
     "261nina": {
-      "time": 1737070543095,
+      "time": 1737149189722,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -9212,14 +9240,16 @@
   },
   {
     "262nina": {
-      "time": 1737070550224,
+      "time": 1737149197781,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
-          "not-dark-pattern"
+          "Disparate-Treatment"
         ],
-        "dark_pattern_impact": null,
-        "dark_pattern_magnitude": null
+        "dark_pattern_impact": [
+          "privacy"
+        ],
+        "dark_pattern_magnitude": "slight-influence"
       }
     }
   },
@@ -9251,7 +9281,7 @@
   },
   {
     "263nina": {
-      "time": 1737070558085,
+      "time": 1737149200085,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -9293,7 +9323,7 @@
   },
   {
     "264nina": {
-      "time": 1737070565978,
+      "time": 1737149203190,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -9332,7 +9362,7 @@
   },
   {
     "265nina": {
-      "time": 1737070570308,
+      "time": 1737149206607,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -9345,7 +9375,7 @@
   },
   {
     "266Leica": {
-      "time": 1736930944982,
+      "time": 1737165077574,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -9377,7 +9407,7 @@
   },
   {
     "266nina": {
-      "time": 1737070595705,
+      "time": 1737149210742,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -9393,7 +9423,7 @@
   },
   {
     "267Leica": {
-      "time": 1736930951408,
+      "time": 1737165080810,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -9422,7 +9452,7 @@
   },
   {
     "267nina": {
-      "time": 1737070601160,
+      "time": 1737149223496,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -9435,7 +9465,7 @@
   },
   {
     "268Leica": {
-      "time": 1736930956205,
+      "time": 1737165088557,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -9461,7 +9491,7 @@
   },
   {
     "268nina": {
-      "time": 1737070616009,
+      "time": 1737149227260,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -9476,7 +9506,7 @@
   },
   {
     "269Leica": {
-      "time": 1736930961484,
+      "time": 1737165092844,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -9505,7 +9535,7 @@
   },
   {
     "269nina": {
-      "time": 1737070623017,
+      "time": 1737149230134,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -9532,7 +9562,7 @@
   },
   {
     "26Leica": {
-      "time": 1736901248418,
+      "time": 1737146697018,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -9597,11 +9627,12 @@
   },
   {
     "270Leica": {
-      "time": 1736930967773,
+      "time": 1737165106222,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "not-dark-pattern"
+          "Hides-Informations",
+          "Restrictive"
         ],
         "dark_pattern_impact": null,
         "dark_pattern_magnitude": null
@@ -9626,7 +9657,7 @@
   },
   {
     "270nina": {
-      "time": 1737070633572,
+      "time": 1737149251149,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -9642,7 +9673,7 @@
   },
   {
     "271Leica": {
-      "time": 1736930971176,
+      "time": 1737165112207,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -9668,7 +9699,7 @@
   },
   {
     "271nina": {
-      "time": 1737070638218,
+      "time": 1737149253636,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -9681,11 +9712,11 @@
   },
   {
     "272Leica": {
-      "time": 1736930992021,
+      "time": 1737165146930,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Asymmetric"
+          "Disparate-Treatment"
         ],
         "dark_pattern_impact": [
           "financial-loss",
@@ -9714,7 +9745,7 @@
   },
   {
     "272nina": {
-      "time": 1737070678247,
+      "time": 1737149262498,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -9729,7 +9760,7 @@
   },
   {
     "273Leica": {
-      "time": 1736931005684,
+      "time": 1737165152521,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -9760,7 +9791,7 @@
   },
   {
     "273nina": {
-      "time": 1737070688883,
+      "time": 1737149265012,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -9775,11 +9806,12 @@
   },
   {
     "274Leica": {
-      "time": 1736931025568,
+      "time": 1737165162815,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Asymmetric"
+          "Asymmetric",
+          "Disparate-Treatment"
         ],
         "dark_pattern_impact": [
           "cognition"
@@ -9809,11 +9841,12 @@
   },
   {
     "274nina": {
-      "time": 1737070710615,
+      "time": 1737149269135,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
-          "Asymmetric"
+          "Asymmetric",
+          "Disparate-Treatment"
         ],
         "dark_pattern_impact": [
           "financial-loss"
@@ -9850,7 +9883,7 @@
   },
   {
     "275nina": {
-      "time": 1737070716250,
+      "time": 1737149271467,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -9889,7 +9922,7 @@
   },
   {
     "276nina": {
-      "time": 1737070732802,
+      "time": 1737149274083,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -9933,7 +9966,7 @@
   },
   {
     "277nina": {
-      "time": 1737070738780,
+      "time": 1737149276326,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -9978,7 +10011,7 @@
   },
   {
     "278nina": {
-      "time": 1737070800066,
+      "time": 1737149278739,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -10017,7 +10050,7 @@
   },
   {
     "279nina": {
-      "time": 1737070910025,
+      "time": 1737149280991,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -10044,7 +10077,7 @@
   },
   {
     "27Leica": {
-      "time": 1736901254984,
+      "time": 1737146703082,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -10122,7 +10155,7 @@
   },
   {
     "280nina": {
-      "time": 1737070916941,
+      "time": 1737149287064,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -10161,7 +10194,7 @@
   },
   {
     "281nina": {
-      "time": 1737070924495,
+      "time": 1737149290038,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -10200,7 +10233,7 @@
   },
   {
     "282nina": {
-      "time": 1737070951167,
+      "time": 1737149293056,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -10213,11 +10246,12 @@
   },
   {
     "283Leica": {
-      "time": 1736931089997,
+      "time": 1737165197490,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Hides-Informations"
+          "Hides-Informations",
+          "Disparate-Treatment"
         ],
         "dark_pattern_impact": [
           "privacy",
@@ -10244,12 +10278,13 @@
   },
   {
     "283nina": {
-      "time": 1737070982377,
+      "time": 1737149295969,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
           "Asymmetric",
-          "Hides-Informations"
+          "Hides-Informations",
+          "Disparate-Treatment"
         ],
         "dark_pattern_impact": [
           "privacy"
@@ -10260,7 +10295,7 @@
   },
   {
     "284Leica": {
-      "time": 1736931098484,
+      "time": 1737165202054,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -10286,7 +10321,7 @@
   },
   {
     "284nina": {
-      "time": 1737070997674,
+      "time": 1737149300104,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -10301,11 +10336,10 @@
   },
   {
     "285Leica": {
-      "time": 1736931112138,
+      "time": 1737165221095,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Deceptive",
           "Hides-Informations"
         ],
         "dark_pattern_impact": [
@@ -10334,7 +10368,7 @@
   },
   {
     "285nina": {
-      "time": 1737071011696,
+      "time": 1737149310237,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -10375,7 +10409,7 @@
   },
   {
     "286nina": {
-      "time": 1737071020879,
+      "time": 1737149320059,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -10414,7 +10448,7 @@
   },
   {
     "287nina": {
-      "time": 1737071025760,
+      "time": 1737149323387,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -10453,7 +10487,7 @@
   },
   {
     "288nina": {
-      "time": 1737071034601,
+      "time": 1737149326137,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -10492,7 +10526,7 @@
   },
   {
     "289nina": {
-      "time": 1737071043702,
+      "time": 1737149328905,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -10522,7 +10556,7 @@
   },
   {
     "28Leica": {
-      "time": 1736901265530,
+      "time": 1737146709383,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -10582,7 +10616,7 @@
   },
   {
     "290Leica": {
-      "time": 1736931156723,
+      "time": 1737165255178,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -10613,7 +10647,7 @@
   },
   {
     "290nina": {
-      "time": 1737071130009,
+      "time": 1737149333183,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -10628,7 +10662,7 @@
   },
   {
     "291Leica": {
-      "time": 1736931168602,
+      "time": 1737165277807,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -10660,7 +10694,7 @@
   },
   {
     "291nina": {
-      "time": 1737071146268,
+      "time": 1737149340580,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -10699,7 +10733,7 @@
   },
   {
     "292nina": {
-      "time": 1737071184872,
+      "time": 1737149344449,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -10740,7 +10774,7 @@
   },
   {
     "293nina": {
-      "time": 1737071195212,
+      "time": 1737149348171,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -10753,7 +10787,7 @@
   },
   {
     "294Leica": {
-      "time": 1736931193541,
+      "time": 1737165311648,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -10786,7 +10820,7 @@
   },
   {
     "294nina": {
-      "time": 1737071210376,
+      "time": 1737149353903,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -10802,14 +10836,18 @@
   },
   {
     "295Leica": {
-      "time": 1736931204140,
+      "time": 1737165351848,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "not-dark-pattern"
+          "Hides-Informations",
+          "Restrictive"
         ],
-        "dark_pattern_impact": null,
-        "dark_pattern_magnitude": null
+        "dark_pattern_impact": [
+          "privacy",
+          "cognition"
+        ],
+        "dark_pattern_magnitude": "slight-influence"
       }
     }
   },
@@ -10831,7 +10869,7 @@
   },
   {
     "295nina": {
-      "time": 1737071228699,
+      "time": 1737149359031,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -10872,7 +10910,7 @@
   },
   {
     "296nina": {
-      "time": 1737071243632,
+      "time": 1737149367794,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -10913,7 +10951,7 @@
   },
   {
     "297nina": {
-      "time": 1737071250854,
+      "time": 1737149370296,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -10926,15 +10964,13 @@
   },
   {
     "298Leica": {
-      "time": 1736931222714,
+      "time": 1737165402506,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Deceptive"
+          "not-dark-pattern"
         ],
-        "dark_pattern_impact": [
-          "cognition"
-        ],
+        "dark_pattern_impact": null,
         "dark_pattern_magnitude": "low-influence"
       }
     }
@@ -10957,7 +10993,7 @@
   },
   {
     "298nina": {
-      "time": 1737071256095,
+      "time": 1737149372602,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -10970,7 +11006,7 @@
   },
   {
     "299Leica": {
-      "time": 1736931228666,
+      "time": 1737165410312,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -10998,7 +11034,7 @@
   },
   {
     "299nina": {
-      "time": 1737071262790,
+      "time": 1737149374864,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -11025,12 +11061,13 @@
   },
   {
     "29Leica": {
-      "time": 1736901280437,
+      "time": 1737146744298,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
           "Hides-Informations",
-          "Restrictive"
+          "Restrictive",
+          "Disparate-Treatment"
         ],
         "dark_pattern_impact": [
           "privacy",
@@ -11113,11 +11150,10 @@
   },
   {
     "2Leica": {
-      "time": 1736901011738,
+      "time": 1737146163643,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Asymmetric",
           "Hides-Informations",
           "Restrictive"
         ],
@@ -11176,14 +11212,16 @@
   },
   {
     "300Leica": {
-      "time": 1736931232423,
+      "time": 1737165420346,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "not-dark-pattern"
+          "Covert"
         ],
-        "dark_pattern_impact": null,
-        "dark_pattern_magnitude": null
+        "dark_pattern_impact": [
+          "cognition"
+        ],
+        "dark_pattern_magnitude": "low-influence"
       }
     }
   },
@@ -11205,7 +11243,7 @@
   },
   {
     "300nina": {
-      "time": 1737071279152,
+      "time": 1737149377101,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -11221,14 +11259,16 @@
   },
   {
     "301Leica": {
-      "time": 1736931237623,
+      "time": 1737165438537,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "not-dark-pattern"
+          "Restrictive"
         ],
-        "dark_pattern_impact": null,
-        "dark_pattern_magnitude": null
+        "dark_pattern_impact": [
+          "cognition"
+        ],
+        "dark_pattern_magnitude": "high-influence"
       }
     }
   },
@@ -11250,7 +11290,7 @@
   },
   {
     "301nina": {
-      "time": 1737071299693,
+      "time": 1737149379154,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -11293,7 +11333,7 @@
   },
   {
     "302nina": {
-      "time": 1737071309511,
+      "time": 1737149381343,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -11332,7 +11372,7 @@
   },
   {
     "303nina": {
-      "time": 1737071317351,
+      "time": 1737149383949,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -11371,7 +11411,7 @@
   },
   {
     "304nina": {
-      "time": 1737071323587,
+      "time": 1737149386220,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -11410,7 +11450,7 @@
   },
   {
     "305nina": {
-      "time": 1737071330036,
+      "time": 1737149390645,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -11423,7 +11463,7 @@
   },
   {
     "306Leica": {
-      "time": 1736931261261,
+      "time": 1737165464430,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -11449,7 +11489,7 @@
   },
   {
     "306nina": {
-      "time": 1737071337052,
+      "time": 1737149392907,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -11464,7 +11504,7 @@
   },
   {
     "307Leica": {
-      "time": 1736931265169,
+      "time": 1737165467565,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -11493,7 +11533,7 @@
   },
   {
     "307nina": {
-      "time": 1737071344163,
+      "time": 1737149395132,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -11506,7 +11546,7 @@
   },
   {
     "308Leica": {
-      "time": 1736931268636,
+      "time": 1737165476765,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -11532,7 +11572,7 @@
   },
   {
     "308nina": {
-      "time": 1737071348642,
+      "time": 1737149397735,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -11545,7 +11585,7 @@
   },
   {
     "309Leica": {
-      "time": 1736931273260,
+      "time": 1737165480276,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -11571,7 +11611,7 @@
   },
   {
     "309nina": {
-      "time": 1737071382486,
+      "time": 1737149400213,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -11600,7 +11640,7 @@
   },
   {
     "30Leica": {
-      "time": 1736901283282,
+      "time": 1737146753535,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -11655,14 +11695,16 @@
   },
   {
     "310Leica": {
-      "time": 1736931277162,
+      "time": 1737165507974,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "not-dark-pattern"
+          "Restrictive"
         ],
-        "dark_pattern_impact": null,
-        "dark_pattern_magnitude": null
+        "dark_pattern_impact": [
+          "cognition"
+        ],
+        "dark_pattern_magnitude": "high-influence"
       }
     }
   },
@@ -11681,7 +11723,7 @@
   },
   {
     "310nina": {
-      "time": 1737071397642,
+      "time": 1737149402819,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -11696,7 +11738,7 @@
   },
   {
     "311Leica": {
-      "time": 1736931281224,
+      "time": 1737165505200,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -11722,7 +11764,7 @@
   },
   {
     "311nina": {
-      "time": 1737071404293,
+      "time": 1737149405347,
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
@@ -12361,7 +12403,7 @@
   },
   {
     "3Leica": {
-      "time": 1736901019595,
+      "time": 1737146168074,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -12632,7 +12674,7 @@
   },
   {
     "43Leica": {
-      "time": 1736901344558,
+      "time": 1737146812057,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -12711,7 +12753,7 @@
   },
   {
     "44Leica": {
-      "time": 1736901347794,
+      "time": 1737146814841,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -12792,7 +12834,7 @@
   },
   {
     "45Leica": {
-      "time": 1736901370340,
+      "time": 1737146826105,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -12882,7 +12924,7 @@
   },
   {
     "46Leica": {
-      "time": 1736901372994,
+      "time": 1737146829436,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -12963,7 +13005,7 @@
   },
   {
     "47Leica": {
-      "time": 1736901382042,
+      "time": 1737146845330,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -13054,7 +13096,7 @@
   },
   {
     "48Leica": {
-      "time": 1736901385949,
+      "time": 1737146851806,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -13133,7 +13175,7 @@
   },
   {
     "49Leica": {
-      "time": 1736901389585,
+      "time": 1737146854415,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -13217,10 +13259,11 @@
   },
   {
     "4Leica": {
-      "time": 1736901029073,
+      "time": 1737146193664,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
+          "Covert",
           "Hides-Informations"
         ],
         "dark_pattern_impact": [
@@ -13293,7 +13336,7 @@
   },
   {
     "50Leica": {
-      "time": 1736901396879,
+      "time": 1737146898470,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -13368,7 +13411,7 @@
   },
   {
     "51Leica": {
-      "time": 1736901400215,
+      "time": 1737146921767,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -13434,7 +13477,7 @@
   },
   {
     "52Leica": {
-      "time": 1736901403793,
+      "time": 1737146924169,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -13500,7 +13543,7 @@
   },
   {
     "53Leica": {
-      "time": 1736901415832,
+      "time": 1737146981219,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -13573,7 +13616,7 @@
   },
   {
     "54Leica": {
-      "time": 1736901421071,
+      "time": 1737146997013,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -13643,14 +13686,16 @@
   },
   {
     "55Leica": {
-      "time": 1736901424233,
+      "time": 1737147029244,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "not-dark-pattern"
+          "Deceptive"
         ],
-        "dark_pattern_impact": null,
-        "dark_pattern_magnitude": null
+        "dark_pattern_impact": [
+          "cognition"
+        ],
+        "dark_pattern_magnitude": "low-influence"
       }
     }
   },
@@ -13709,7 +13754,7 @@
   },
   {
     "56Leica": {
-      "time": 1736901429848,
+      "time": 1737147035868,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -13778,7 +13823,7 @@
   },
   {
     "57Leica": {
-      "time": 1736901432731,
+      "time": 1737147039415,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -13846,7 +13891,7 @@
   },
   {
     "58Leica": {
-      "time": 1736901435439,
+      "time": 1737147043960,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -13916,7 +13961,7 @@
   },
   {
     "59Leica": {
-      "time": 1736901438199,
+      "time": 1737147047428,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -13999,7 +14044,7 @@
   },
   {
     "5Leica": {
-      "time": 1736901039684,
+      "time": 1737146207241,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -14060,7 +14105,7 @@
   },
   {
     "60Leica": {
-      "time": 1736901440608,
+      "time": 1737147050443,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -14134,7 +14179,7 @@
   },
   {
     "61Leica": {
-      "time": 1736901442873,
+      "time": 1737147053571,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -14205,7 +14250,7 @@
   },
   {
     "62Leica": {
-      "time": 1736901445205,
+      "time": 1737147056820,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -14273,7 +14318,7 @@
   },
   {
     "63Leica": {
-      "time": 1736901465391,
+      "time": 1737147063682,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -14341,11 +14386,12 @@
   },
   {
     "64Leica": {
-      "time": 1736901474856,
+      "time": 1737147080524,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Deceptive"
+          "Deceptive",
+          "Hides-Informations"
         ],
         "dark_pattern_impact": [
           "cognition"
@@ -14419,7 +14465,7 @@
   },
   {
     "65Leica": {
-      "time": 1736901481467,
+      "time": 1737147100211,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -14487,7 +14533,7 @@
   },
   {
     "66Leica": {
-      "time": 1736901483620,
+      "time": 1737147105565,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -14800,7 +14846,7 @@
   },
   {
     "6Leica": {
-      "time": 1736901045705,
+      "time": 1737146221630,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -15063,7 +15109,7 @@
   },
   {
     "73Leica": {
-      "time": 1736901509723,
+      "time": 1737147136688,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -15138,7 +15184,7 @@
   },
   {
     "74Leica": {
-      "time": 1736901516211,
+      "time": 1737147141772,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -15207,7 +15253,7 @@
   },
   {
     "75Leica": {
-      "time": 1736901541102,
+      "time": 1737147176319,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -15279,7 +15325,7 @@
   },
   {
     "76Leica": {
-      "time": 1736901544032,
+      "time": 1737147186965,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -15350,7 +15396,7 @@
   },
   {
     "77Leica": {
-      "time": 1736901546715,
+      "time": 1737147191835,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -15428,7 +15474,7 @@
   },
   {
     "78Leica": {
-      "time": 1736901554875,
+      "time": 1737147209396,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -15506,7 +15552,7 @@
   },
   {
     "79Leica": {
-      "time": 1736901558342,
+      "time": 1737147213029,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -15600,7 +15646,7 @@
   },
   {
     "7Leica": {
-      "time": 1736901061827,
+      "time": 1737146369889,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -15660,7 +15706,7 @@
   },
   {
     "80Leica": {
-      "time": 1736901565157,
+      "time": 1737147218831,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -15737,7 +15783,7 @@
   },
   {
     "81Leica": {
-      "time": 1736901569011,
+      "time": 1737147222898,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -15808,11 +15854,12 @@
   },
   {
     "82Leica": {
-      "time": 1736901577852,
+      "time": 1737147289748,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "Deceptive"
+          "Deceptive",
+          "Hides-Informations"
         ],
         "dark_pattern_impact": [
           "cognition"
@@ -15881,7 +15928,7 @@
   },
   {
     "83Leica": {
-      "time": 1736901580648,
+      "time": 1737147398804,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -15953,7 +16000,7 @@
   },
   {
     "84Leica": {
-      "time": 1736901584112,
+      "time": 1737147404162,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -16226,7 +16273,7 @@
   },
   {
     "88Leica": {
-      "time": 1736901614055,
+      "time": 1737147743275,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -16477,7 +16524,7 @@
   },
   {
     "8Leica": {
-      "time": 1736901080288,
+      "time": 1737146389474,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -17152,7 +17199,7 @@
   },
   {
     "98Leica": {
-      "time": 1736901654123,
+      "time": 1737161494920,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
@@ -17214,14 +17261,16 @@
   },
   {
     "99Leica": {
-      "time": 1736901658200,
+      "time": 1737161536002,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
-          "not-dark-pattern"
+          "Asymmetric"
         ],
-        "dark_pattern_impact": null,
-        "dark_pattern_magnitude": null
+        "dark_pattern_impact": [
+          "cognition"
+        ],
+        "dark_pattern_magnitude": "low-influence"
       }
     }
   },
@@ -17300,7 +17349,7 @@
   },
   {
     "9Leica": {
-      "time": 1736901086768,
+      "time": 1737146395187,
       "rater": "Leica",
       "value": {
         "dark_pattern_type": [
