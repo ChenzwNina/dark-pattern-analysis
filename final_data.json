@@ -46,8 +46,8 @@
     },
     "4": {
         "votes": {
-            "Covert": 3,
-            "Hides-Informations": 3
+            "Hides-Informations": 3,
+            "Covert": 3
         },
         "voting_number": 3,
         "widget_info": {
@@ -83,9 +83,9 @@
     },
     "7": {
         "votes": {
-            "Deceptive": 1,
             "Hides-Informations": 2,
-            "not-dark-pattern": 1
+            "not-dark-pattern": 1,
+            "Deceptive": 1
         },
         "voting_number": 3,
         "widget_info": {
@@ -96,9 +96,9 @@
     },
     "8": {
         "votes": {
+            "Hides-Informations": 2,
             "not-sure": 1,
-            "Deceptive": 1,
-            "Hides-Informations": 2
+            "Deceptive": 1
         },
         "voting_number": 3,
         "widget_info": {
@@ -167,8 +167,8 @@
     },
     "14": {
         "votes": {
-            "Covert": 3,
             "Hides-Informations": 2,
+            "Covert": 3,
             "Disparate-Treatment": 1
         },
         "voting_number": 3,
@@ -391,8 +391,8 @@
     },
     "33": {
         "votes": {
-            "Covert": 3,
-            "Hides-Informations": 2
+            "Hides-Informations": 2,
+            "Covert": 3
         },
         "voting_number": 3,
         "widget_info": {
@@ -585,8 +585,8 @@
     },
     "50": {
         "votes": {
-            "Covert": 2,
             "Hides-Informations": 2,
+            "Covert": 2,
             "Disparate-Treatment": 1
         },
         "voting_number": 3,
@@ -644,8 +644,8 @@
     },
     "55": {
         "votes": {
-            "Deceptive": 1,
-            "not-dark-pattern": 2
+            "not-dark-pattern": 2,
+            "Deceptive": 1
         },
         "voting_number": 3,
         "widget_info": {
@@ -753,8 +753,8 @@
     "64": {
         "votes": {
             "Restrictive": 1,
-            "Deceptive": 1,
-            "Hides-Informations": 3
+            "Hides-Informations": 3,
+            "Deceptive": 1
         },
         "voting_number": 3,
         "widget_info": {
@@ -787,8 +787,8 @@
     },
     "67": {
         "votes": {
-            "Deceptive": 1,
-            "not-dark-pattern": 2
+            "not-dark-pattern": 2,
+            "Deceptive": 1
         },
         "voting_number": 3,
         "widget_info": {
@@ -857,9 +857,9 @@
     },
     "73": {
         "votes": {
+            "Hides-Informations": 3,
             "Covert": 1,
-            "Deceptive": 1,
-            "Hides-Informations": 3
+            "Deceptive": 1
         },
         "voting_number": 3,
         "widget_info": {
@@ -883,8 +883,8 @@
     "75": {
         "votes": {
             "Restrictive": 2,
-            "Deceptive": 1,
-            "not-dark-pattern": 1
+            "not-dark-pattern": 1,
+            "Deceptive": 1
         },
         "voting_number": 3,
         "widget_info": {
@@ -908,8 +908,8 @@
     },
     "77": {
         "votes": {
-            "Covert": 3,
-            "Hides-Informations": 2
+            "Hides-Informations": 2,
+            "Covert": 3
         },
         "voting_number": 3,
         "widget_info": {
@@ -944,8 +944,8 @@
     },
     "80": {
         "votes": {
-            "Covert": 3,
-            "Hides-Informations": 2
+            "Hides-Informations": 2,
+            "Covert": 3
         },
         "voting_number": 3,
         "widget_info": {
@@ -968,8 +968,8 @@
     },
     "82": {
         "votes": {
-            "Deceptive": 1,
-            "Hides-Informations": 3
+            "Hides-Informations": 3,
+            "Deceptive": 1
         },
         "voting_number": 3,
         "widget_info": {
@@ -1037,8 +1037,8 @@
     },
     "88": {
         "votes": {
-            "Deceptive": 1,
-            "Hides-Informations": 3
+            "Hides-Informations": 3,
+            "Deceptive": 1
         },
         "voting_number": 3,
         "widget_info": {
@@ -1164,9 +1164,9 @@
     },
     "99": {
         "votes": {
+            "not-dark-pattern": 1,
             "Covert": 1,
-            "Asymmetric": 2,
-            "not-dark-pattern": 1
+            "Asymmetric": 2
         },
         "voting_number": 3,
         "widget_info": {
@@ -1212,8 +1212,8 @@
     },
     "103": {
         "votes": {
-            "Covert": 3,
-            "Hides-Informations": 3
+            "Hides-Informations": 3,
+            "Covert": 3
         },
         "voting_number": 3,
         "widget_info": {
@@ -1235,9 +1235,9 @@
     },
     "105": {
         "votes": {
-            "Deceptive": 2,
             "Hides-Informations": 2,
-            "not-dark-pattern": 1
+            "not-dark-pattern": 1,
+            "Deceptive": 2
         },
         "voting_number": 3,
         "widget_info": {
@@ -1248,8 +1248,8 @@
     },
     "106": {
         "votes": {
-            "Covert": 3,
-            "Hides-Informations": 2
+            "Hides-Informations": 2,
+            "Covert": 3
         },
         "voting_number": 3,
         "widget_info": {
@@ -1260,9 +1260,9 @@
     },
     "107": {
         "votes": {
-            "Deceptive": 2,
             "Hides-Informations": 2,
-            "not-dark-pattern": 1
+            "not-dark-pattern": 1,
+            "Deceptive": 2
         },
         "voting_number": 3,
         "widget_info": {
@@ -1298,8 +1298,8 @@
         "votes": {
             "Restrictive": 2,
             "Covert": 3,
-            "Deceptive": 1,
-            "Asymmetric": 1
+            "Asymmetric": 1,
+            "Deceptive": 1
         },
         "voting_number": 3,
         "widget_info": {
@@ -1334,8 +1334,8 @@
     },
     "113": {
         "votes": {
-            "Deceptive": 1,
-            "Hides-Informations": 3
+            "Hides-Informations": 3,
+            "Deceptive": 1
         },
         "voting_number": 3,
         "widget_info": {
@@ -1380,8 +1380,8 @@
     },
     "117": {
         "votes": {
-            "Covert": 3,
-            "Hides-Informations": 3
+            "Hides-Informations": 3,
+            "Covert": 3
         },
         "voting_number": 3,
         "widget_info": {
@@ -1393,8 +1393,8 @@
     "118": {
         "votes": {
             "Restrictive": 3,
-            "Asymmetric": 1,
-            "Hides-Informations": 2
+            "Hides-Informations": 2,
+            "Asymmetric": 1
         },
         "voting_number": 3,
         "widget_info": {
@@ -1566,8 +1566,8 @@
     },
     "133": {
         "votes": {
-            "Covert": 1,
             "Hides-Informations": 2,
+            "Covert": 1,
             "Disparate-Treatment": 1
         },
         "voting_number": 3,
@@ -1893,8 +1893,8 @@
     },
     "161": {
         "votes": {
-            "not-dark-pattern": 1,
-            "Hides-Informations": 2
+            "Hides-Informations": 2,
+            "not-dark-pattern": 1
         },
         "voting_number": 3,
         "widget_info": {
@@ -2057,10 +2057,10 @@
     },
     "175": {
         "votes": {
-            "Covert": 1,
-            "Hides-Informations": 1,
             "Asymmetric": 2,
-            "not-dark-pattern": 1
+            "Covert": 1,
+            "not-dark-pattern": 1,
+            "Hides-Informations": 1
         },
         "voting_number": 3,
         "widget_info": {
@@ -2120,8 +2120,8 @@
     "180": {
         "votes": {
             "Restrictive": 2,
-            "Deceptive": 1,
-            "Hides-Informations": 2
+            "Hides-Informations": 2,
+            "Deceptive": 1
         },
         "voting_number": 3,
         "widget_info": {
@@ -2237,8 +2237,8 @@
     },
     "190": {
         "votes": {
-            "Deceptive": 1,
-            "Hides-Informations": 3
+            "Hides-Informations": 3,
+            "Deceptive": 1
         },
         "voting_number": 3,
         "widget_info": {
@@ -2329,8 +2329,8 @@
     "198": {
         "votes": {
             "Restrictive": 2,
-            "Covert": 1,
-            "Hides-Informations": 3
+            "Hides-Informations": 3,
+            "Covert": 1
         },
         "voting_number": 3,
         "widget_info": {
@@ -2376,8 +2376,8 @@
     "202": {
         "votes": {
             "Restrictive": 2,
-            "not-dark-pattern": 1,
             "Hides-Informations": 2,
+            "not-dark-pattern": 1,
             "Disparate-Treatment": 1
         },
         "voting_number": 3,
@@ -2390,8 +2390,8 @@
     "203": {
         "votes": {
             "Restrictive": 1,
-            "Covert": 3,
-            "Hides-Informations": 3
+            "Hides-Informations": 3,
+            "Covert": 3
         },
         "voting_number": 3,
         "widget_info": {
@@ -2426,8 +2426,8 @@
     },
     "206": {
         "votes": {
-            "Covert": 3,
-            "Hides-Informations": 3
+            "Hides-Informations": 3,
+            "Covert": 3
         },
         "voting_number": 3,
         "widget_info": {
@@ -2450,8 +2450,8 @@
     },
     "208": {
         "votes": {
-            "Covert": 2,
-            "Hides-Informations": 2
+            "Hides-Informations": 2,
+            "Covert": 2
         },
         "voting_number": 3,
         "widget_info": {
@@ -2486,8 +2486,8 @@
     "211": {
         "votes": {
             "Restrictive": 1,
-            "Deceptive": 1,
-            "Hides-Informations": 3
+            "Hides-Informations": 3,
+            "Deceptive": 1
         },
         "voting_number": 3,
         "widget_info": {
@@ -2499,8 +2499,7 @@
     "212": {
         "votes": {
             "not-sure": 1,
-            "Deceptive": 1,
-            "Hides-Informations": 1
+            "Deceptive": 2
         },
         "voting_number": 3,
         "widget_info": {
@@ -2617,8 +2616,8 @@
     },
     "222": {
         "votes": {
-            "Asymmetric": 2,
-            "not-dark-pattern": 1
+            "not-dark-pattern": 1,
+            "Asymmetric": 2
         },
         "voting_number": 3,
         "widget_info": {
@@ -2629,8 +2628,8 @@
     },
     "223": {
         "votes": {
-            "Covert": 3,
-            "Hides-Informations": 3
+            "Hides-Informations": 3,
+            "Covert": 3
         },
         "voting_number": 3,
         "widget_info": {
@@ -2827,9 +2826,9 @@
     },
     "240": {
         "votes": {
+            "not-dark-pattern": 1,
             "Covert": 1,
-            "Asymmetric": 2,
-            "not-dark-pattern": 1
+            "Asymmetric": 2
         },
         "voting_number": 3,
         "widget_info": {
@@ -2851,8 +2850,8 @@
     },
     "242": {
         "votes": {
-            "Covert": 3,
-            "Hides-Informations": 3
+            "Hides-Informations": 3,
+            "Covert": 3
         },
         "voting_number": 3,
         "widget_info": {
@@ -2932,8 +2931,7 @@
     "249": {
         "votes": {
             "not-sure": 1,
-            "Deceptive": 1,
-            "Hides-Informations": 1
+            "Deceptive": 2
         },
         "voting_number": 3,
         "widget_info": {
@@ -2956,8 +2954,8 @@
     },
     "251": {
         "votes": {
-            "Covert": 3,
-            "Hides-Informations": 3
+            "Hides-Informations": 3,
+            "Covert": 3
         },
         "voting_number": 3,
         "widget_info": {
@@ -3200,8 +3198,8 @@
     },
     "272": {
         "votes": {
-            "Covert": 1,
             "Hides-Informations": 2,
+            "Covert": 1,
             "Disparate-Treatment": 1
         },
         "voting_number": 3,
@@ -3224,9 +3222,9 @@
     },
     "274": {
         "votes": {
+            "Hides-Informations": 1,
             "Covert": 1,
             "Asymmetric": 3,
-            "Hides-Informations": 1,
             "Disparate-Treatment": 3
         },
         "voting_number": 3,
@@ -3271,9 +3269,9 @@
     },
     "278": {
         "votes": {
-            "Hides-Informations": 1,
             "Asymmetric": 1,
-            "not-dark-pattern": 2
+            "not-dark-pattern": 2,
+            "Hides-Informations": 1
         },
         "voting_number": 3,
         "widget_info": {
@@ -3328,8 +3326,8 @@
     },
     "283": {
         "votes": {
-            "Asymmetric": 1,
             "Hides-Informations": 2,
+            "Asymmetric": 1,
             "Disparate-Treatment": 3
         },
         "voting_number": 3,
@@ -3410,8 +3408,8 @@
     },
     "290": {
         "votes": {
-            "Covert": 2,
             "Asymmetric": 1,
+            "Covert": 2,
             "not-dark-pattern": 1,
             "Disparate-Treatment": 1
         },
@@ -3531,8 +3529,8 @@
     },
     "300": {
         "votes": {
-            "Covert": 3,
-            "Hides-Informations": 2
+            "Hides-Informations": 2,
+            "Covert": 3
         },
         "voting_number": 3,
         "widget_info": {

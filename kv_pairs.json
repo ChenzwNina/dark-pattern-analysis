@@ -6804,7 +6804,7 @@
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
-          "Hides-Informations"
+          "Deceptive"
         ],
         "dark_pattern_impact": [
           "financial-loss"
@@ -8562,7 +8562,7 @@
       "rater": "nina",
       "value": {
         "dark_pattern_type": [
-          "Hides-Informations"
+          "Deceptive"
         ],
         "dark_pattern_impact": [
           "financial-loss"
