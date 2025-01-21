@@ -1101,7 +1101,8 @@
             "condition": "Baseline_System"
         },
         "majority_vote": [
-            "Hides-Informations"
+            "Hides-Informations",
+            "Covert"
         ]
     },
     "74": {
